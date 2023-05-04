@@ -1,0 +1,52 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    color:crimson;
+}
+
+a:hover {
+    color:blueviolet;
+}
+
+h2 {
+    color:firebrick;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+th {
+    background-color: crimson;
+    font-family: serif;
+}
+
+tbody tr td {
+    color:aquamarine;
+    font-family: sans-serif;
+}
+
+table {
+    background-color: firebrick;
+    margin: 0 auto;
+}
+
+img {
+    top: 100px;
+    display: block;
+    margin: 0 auto;
+    border: firebrick ridge 5px;
+}
+
+#tag {
+    color:blueviolet;
+    font-style: italic;
+}
+
+
